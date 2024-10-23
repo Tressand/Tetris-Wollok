@@ -10,7 +10,7 @@ ___
 
 ## Guía de instalación
 ### **1 ) Descargar:**
-Para instalar el juego es necesario descargar la [última versión del código fuente](https://github.com/pdepjuevesTT/2024-tpo-game-bitbusters/releases/latest)
+Para instalar el juego es necesario descargar la [última versión del código fuente](https://github.com/Tressand/Tetris-Wollok/releases/latest)
 
 ### **2 ) Descomprimir:**
 Una vez descargado el archivo comprimido, hay que descomprimirlo.
@@ -73,16 +73,3 @@ ___
 ___
 
 <img src="https://i.imgur.com/clpvSXf.png"/>
-
-___
-
-## Equipo de desarrollo
-
-- Geronimo Herrera
-- Santiago De Franceschi
-- Franco Alanoca Villarreal
-
-## Más Información:
-
-- Realizado en la UTN, durante la cursada de Paradigmas de Programación (curso k2033)
-- Una vez terminado, no tenemos problemas en que el repositorio sea público

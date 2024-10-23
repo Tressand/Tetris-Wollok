@@ -11,7 +11,7 @@ ___
 ## Instalation Guide
 ### **1 ) Download:**
 
-To install the game it is necessary to download the [latest version of the source code](https://github.com/pdepjuevesTT/2024-tpo-game-bitbusters/releases/latest)
+To install the game it is necessary to download the [latest version of the source code](https://github.com/Tressand/Tetris-Wollok/releases/latest)
 
 ### **2 ) Decompress:**
 Once the compressed file has been downloaded, it must be unzipped.
@@ -75,16 +75,3 @@ ___
 ___
 
 <img src="https://i.imgur.com/clpvSXf.png"/>
-
-___
-
-## Development Team
-
-- Geronimo Herrera
-- Santiago De Franceschi
-- Franco Alanoca Villarreal
-
-## More Info:
-
-- Made at UTN, during the course of Programming Paradigms (course k2033).
-- Once finished, we have no problem in making the repository public.
